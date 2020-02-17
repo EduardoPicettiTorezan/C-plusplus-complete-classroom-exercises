@@ -1,2 +1,3 @@
-# C-plusplus-complete-classroom-exercises
-Exercícios de C++ realizados durante cadeira de Sistemas de Informação, na Universidade de Caxias do Sul, durante o ano de 2011. Estes mesmos fontes (de minha autoria) são usados por alunos da comunidade acadêmica para consulta e estudo.
+# Cplusplus-complete-classroom-exercises
+
+C++ exercises performed during an Information Systems class, at the University of Caxias do Sul, during 2011. These same sources (of my authorship) are used by students from the academic community for consultation and study.
